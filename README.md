@@ -7,7 +7,7 @@
 ## 📝 Sobre
 
 <p>
-  Nesse projeto foi aplicado conceitos e estratégias de autenticação e autorização de usuário. Foi desenvolvido em conjunto com...
+  Nesse projeto foi aplicado conceitos e estratégias de autenticação e autorização de usuário. Foi desenvolvido em conjunto com https://github.com/WillianKomada/auth-backend.git
 </p>
 
 ---

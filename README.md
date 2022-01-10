@@ -20,8 +20,8 @@
 - [Next.js](https://nextjs.org/)
 - [TypeScript](https://www.typescriptlang.org/)
 - [SASS](https://sass-lang.com/)
-- [nookies](https://github.com/maticzav/nookies)
-- [jwt-decode](https://github.com/auth0/jwt-decode)
+- [Nookies](https://github.com/maticzav/nookies)
+- [Jwt-decode](https://github.com/auth0/jwt-decode)
 ---
 
 ## 📁 Como baixar o projeto através do Git Bash
